@@ -1,12 +1,40 @@
-# React + Vite
+# 🧮 CounterApp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicación web hecha con **React + Vite**, donde puedes controlar un contador: incrementarlo, reducirlo y reiniciarlo fácilmente.  
+Ideal para practicar manejo de estado (`useState`), eventos, componentes y estilos modernos.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Vista previa
 
-## Expanding the ESLint configuration
+![CounterApp Screenshot](./screenshot.png) <!-- Cambia esto por tu imagen -->
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+👉 **Demo online:**  
+https://cmejiajulian.github.io/CounterApp
+
+---
+
+## 🛠️ Tecnologías
+
+- ⚛️ React 19
+- 🧠 JavaScript (ES6+)
+- 🎨 CSS moderno con Flexbox
+- ⚡ Vite
+- 📦 gh-pages para despliegue
+
+---
+
+## 📦 Instalación
+
+```bash
+# Clona el repositorio
+git clone git@github.com:cmejiajulian/CounterApp.git
+
+# Entra a la carpeta
+cd CounterApp
+
+# Instala las dependencias
+yarn
+
+# Corre la app en modo desarrollo
+yarn dev
