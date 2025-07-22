@@ -7,7 +7,7 @@ Ideal para practicar manejo de estado (`useState`), eventos, componentes y estil
 
 ## 🚀 Vista previa
 
-![CounterApp Screenshot](./screenshot.png) <!-- Cambia esto por tu imagen -->
+![CounterApp Screenshot]("/src/contador.png") <!-- Cambia esto por tu imagen -->
 
 👉 **Demo online:**  
 https://cmejiajulian.github.io/CounterApp/
